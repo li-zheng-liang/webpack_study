@@ -1,0 +1,20 @@
+{
+  "name": "webpack_lzl",
+  "version": "1.1.0",
+  "description": "这是我们入门的一天",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lzl":"webpack",
+    "sever":"webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2966833040@qq.com"
+  },
+  "author": "lzl",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}
